@@ -4,7 +4,7 @@
 Este documento descreve os requisitos para o desenvolvimento de um sistema de academia,
 projetado para atender ao Usuário Comum. O objetivo é criar uma plataforma intuitiva que permita o gerenciamento e o acompanhamento de treinos pessoais.
 
-- [Repositório do projeto](.https://github.com/Stanly1BR/projetoAcademy):
+[Repositório do projeto](https://github.com/Stanly1BR/projetoAcademy)
 
 ## Atores do Sistema
 Usuário Comum: Pessoa física que utiliza o aplicativo para gerenciar seus treinos e acompanhar o progresso.
