@@ -14,7 +14,7 @@ Principais módulos e funcionalidades definidos para o projeto:
 - [ ] Estrutura para futura expansão (perfis de personal e academias)
 
 ## 📁 Estrutura dos Arquivos
-- [Requisitos](/Requisitos.md): Lista de requisitos funcionais e não funcionais.
+- [Requisitos](/Diagramas/Requisitos.md): Lista de requisitos funcionais e não funcionais.
 - [Modelos](/Diagramas): Diagramas UML utilizados (caso de uso, atividades, classes, estados). 
 - [Documentação](/Documentação/Casos_Das_Implementação): Casos_Das_Implementação
 
