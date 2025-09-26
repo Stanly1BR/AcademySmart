@@ -1,42 +1,31 @@
-# Especificação de Requisitos do Sistema: Sistema de Academia
+# AcademySmart
 
-## Visão Geral do Projeto
-Este documento descreve os requisitos para o desenvolvimento de um sistema de academia,
-projetado para atender ao Usuário Comum. O objetivo é criar uma plataforma intuitiva que permita o gerenciamento e o acompanhamento de treinos pessoais.
+## 💡 Descrição Geral
+AcademySmart é uma plataforma para o gerenciamento de treinos pessoais, permitindo que o usuário crie, registre e acompanhe seu progresso de forma intuitiva. O projeto foi idealizado para ser uma ferramenta robusta e flexível, com foco em uma experiência de usuário simples e direta.
 
-[Repositório do projeto](https://github.com/Stanly1BR/projetoAcademy)
+## 📌 Escopo Geral
+Principais módulos e funcionalidades definidos para o projeto:
 
-## Atores do Sistema
-Usuário Comum: Pessoa física que utiliza o aplicativo para gerenciar seus treinos e acompanhar o progresso.
+- [ ] Cadastro e autenticação de usuários
+- [ ] Criação de treinos personalizados
+- [ ] Registro de séries, repetições e carga
+- [ ] Catálogo de exercícios
+- [ ] Histórico de treinos e acompanhamento de progresso
+- [ ] Estrutura para futura expansão (perfis de personal e academias)
 
-# Requisitos Funcionais (RFs)
+## 📁 Estrutura dos Arquivos
+- [Requisitos](/docs/requisitos.md): Lista de requisitos funcionais e não funcionais.
+- [Modelos](/docs/modelos): Diagramas UML utilizados (caso de uso, atividades, classes, estados).
 
-RF1: O sistema deve permitir o cadastro e login de usuários.
+-  ### [Algoritmo do Projeto](https://github.com/Stanly1BR/projetoAcademy): Repositório no GitHub
 
-## Gerenciamento de Treinos
+## 🛠️ Tecnologias e Ferramentas
+- [Java](https://www.java.com/pt-br/download/help/whatis_java.html)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea)
+- [Lucidchart](https://www.lucidchart.com/)
+- [Postman](https://www.postman.com/)
 
-RF2: O sistema deve permitir que o usuário crie e edite seus próprios treinos, dividindo-os em blocos (ex: A, B, C).
-
-RF3: O sistema deve permitir que o usuário registre o número de repetições e séries realizadas para cada exercício em um treino.
-
-## Catálogo de Exercícios
-
-RF4: O sistema deve ter uma lista predefinida de exercícios com descrições, imagens e/ou vídeos para que o usuário possa selecionar para seus treinos.
-
-# Requisitos Não Funcionais (RNFs)
-
-RNF1: O sistema deve ser intuitivo e fácil de usar, com uma interface de usuário (UI) limpa e uma experiência do usuário (UX) fluida.
-
-RNF2: O aplicativo deve ser responsivo e funcionar bem em diferentes dispositivos móveis (iOS e Android).
-
-RNF3: O sistema deve ter um tempo de carregamento rápido para treinos e outras informações.
-
-RNF4: A segurança dos dados do usuário (informações pessoais e de treino) deve ser priorizada.
-
-# Regras de Negócio
-
-RN1: Cada treino deve ser composto por pelo menos um bloco de exercícios.
-
-RN2: O registro de repetições e séries deve ser salvo no histórico de treino do usuário para permitir o acompanhamento de progresso.
-
-RN3: Todos os dados de treino (exercícios, repetições, séries) devem ser associados à conta do usuário.
+## 👥 Integrantes
+- :octocat: [Stanly Almeida do Carmo](https://github.com/Stanly1BR/)
