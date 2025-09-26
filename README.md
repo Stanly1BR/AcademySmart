@@ -14,8 +14,9 @@ Principais módulos e funcionalidades definidos para o projeto:
 - [ ] Estrutura para futura expansão (perfis de personal e academias)
 
 ## 📁 Estrutura dos Arquivos
-- [Requisitos](/docs/requisitos.md): Lista de requisitos funcionais e não funcionais.
-- [Modelos](/docs/modelos): Diagramas UML utilizados (caso de uso, atividades, classes, estados).
+- [Requisitos](/docs/Requisitos.md): Lista de requisitos funcionais e não funcionais.
+- [Modelos](/docs/Diagramas): Diagramas UML utilizados (caso de uso, atividades, classes, estados). 
+- [Documentação](/docs/Documentação/Casos_Das_Implementação): Casos_Das_Implementação
 
 -  ### [Algoritmo do Projeto](https://github.com/Stanly1BR/projetoAcademy): Repositório no GitHub
 
